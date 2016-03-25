@@ -1,5 +1,5 @@
 {
-    "name": "nx/scientist-psr3-journal",
+    "name": "hasjbrown/scientist-psr3-journal",
     "description": "PSR3 Journal for Scientist",
     "keywords": ["scientist", "testing", "experiment", "test"],
     "type": "library",
@@ -13,8 +13,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Nikko Bautista",
-            "email": "nikko@nikkobautista.com"
+            "name": "Jeremy Brown",
+            "email": "jbrown@tune.com"
         }
     ],
     "autoload": {
